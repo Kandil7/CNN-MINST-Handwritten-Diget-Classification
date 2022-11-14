@@ -1,4 +1,4 @@
-# CNN-MINST-Handwrite
+# CNN-MINST-Handwritten diget classification
 Train Model by CNN on Minst Handwritten diget dataset 
 
 CNN model predict all number True
